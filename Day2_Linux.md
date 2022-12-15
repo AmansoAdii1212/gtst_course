@@ -38,3 +38,16 @@ Education. ...
 
 Support
 
+ LINUX DISTROS..
+ Debian
+○ Kali linux
+○ Ubuntu
+○ Parrot
+● Arch
+○ Black 
+arch
+○ Garuda
+● Fedora
+● Red Hat
+● Gentoo
+● Android
